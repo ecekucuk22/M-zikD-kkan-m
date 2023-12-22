@@ -1,2 +1,2 @@
-# M-zikD-kkan-m
+# MuzikDukkanım
 HTML Ödev1
